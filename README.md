@@ -23,3 +23,6 @@ authentic.
 
 # Conclusion
 Steganography Encryption is a useful tool for hiding data in images and verifying the authenticity of the message. Whether you're a security analyst, investigator, or researcher, Steganography Encryption can help you protect your sensitive data and ensure that your messages are authentic.
+
+
+![Screenshot (273)](https://user-images.githubusercontent.com/98056148/232298420-00aab2b4-02dc-435e-8662-f841891fabf8.png)
